@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="C:\Users\madis\Desktop\School\Fall 2025\Obj-Orient Prg using C#\Week 2 - Programming Lab - Madison Dorse\Week2 - Dorse_Solution\FrmFall2025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFall2025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Week2 - Dorse_Solution\FrmFall2025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

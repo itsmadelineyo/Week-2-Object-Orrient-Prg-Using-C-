@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Week2___Dorse_Solution</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\madis\Desktop\School\Fall 2025\Obj-Orient Prg using C#\Week 2 - Programming Lab - Madison Dorse\Week2 - Dorse_Solution\FrmFall2025.cs" Link="FrmFall2025.cs" />
+  </ItemGroup>
+
+</Project>
